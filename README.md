@@ -1,3 +1,3 @@
-# aicamera.zurich.co.id
+# cag2a.zurichna.com
 
 ## Subdomain Takeover By DrTrace
