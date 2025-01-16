@@ -1,3 +1,3 @@
-# email.poliza.zurich.com.ar
+# emea-aws-splclb.zurich.com
 
 ## Subdomain Takeover By DrTrace
